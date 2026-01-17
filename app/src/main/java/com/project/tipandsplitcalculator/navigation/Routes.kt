@@ -1,3 +1,4 @@
+
 package com.project.tipandsplitcalculator.navigation
 
 import kotlinx.serialization.Serializable
