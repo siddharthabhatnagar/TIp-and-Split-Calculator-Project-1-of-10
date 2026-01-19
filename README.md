@@ -26,7 +26,7 @@ The first milestone of my **Beginner-to-Advanced Challenge**. This project is a 
 
 ## 🏆 The 10-Project Roadmap
 - [x] **Project 01:** Tip & Split Calculator (Beginner)
-- [ ] **Project 02:** BMI & Health Metrics Tracker (Intermediate)
+- [ ] **Project 02:** Smart Contact Manager (Intermediate)
 - [ ] **Project 03:** Flashlight & SOS Alert (Beginner)
 - [ ] **Project 04:** Personal Expense Tracker (Intermediate)
 - [ ] **Project 05:** Recipe Finder (Intermediate)
