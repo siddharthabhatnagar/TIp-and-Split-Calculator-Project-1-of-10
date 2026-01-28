@@ -1,44 +1,69 @@
-# 🚀 10-Project Android Mastery Challenge
+# 📱 Tip Split App  
+### Project 1 of 10 – Android Internship Portfolio
 
-## 📍 Project 01: Tip & Split Calculator
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+## 📌 About the Project
+**Tip Split App** is a beginner-level Android application built using **Kotlin** and **Jetpack Compose**.  
+It helps users calculate tips and split bills among multiple people with real-time updates.
 
----
-
-### 📖 Overview
-The first milestone of my **Beginner-to-Advanced Challenge**. This project is a sleek utility app that eliminates the math headache when dining out. It calculates tips and splits bills instantly using a reactive, modern UI.
-
-### 🛠️ Technical Focus
-* **State Management:** Mastering `remember` and `mutableStateOf` to handle real-time UI updates.
-* **Reactive Logic:** Implementing a "Logic-as-you-type" flow where math occurs instantly upon input.
-* **Material 3 UI:** Utilizing modern Cards, OutlinedTextFields, and Sliders for a premium feel.
-
-
-
-### 🌟 Key Features
-* **Live Math:** Total per person updates as you slide the tip percentage.
-* **Input Validation:** Robust handling of empty strings and decimal points.
-* **Dynamic Split:** Counter logic to divide the bill among any number of friends.
+This project is part of my **10-project Android Development roadmap**, designed to progress from beginner to advanced level and strengthen my internship-ready skills.
 
 ---
 
-## 🏆 The 10-Project Roadmap
-- [x] **Project 01:** Tip & Split Calculator (Beginner)
-- [ ] **Project 02:** Smart Contact Manager (Intermediate)
-- [ ] **Project 03:** Flashlight & SOS Alert (Beginner)
-- [ ] **Project 04:** Personal Expense Tracker (Intermediate)
-- [ ] **Project 05:** Recipe Finder (Intermediate)
-- [ ] **Project 06:** Minimalist Weather App (Intermediate)
-- [ ] **Project 07:** Quote of the Day (Intermediate)
-- [ ] **Project 08:** Real-time Chat App (Advanced)
-- [ ] **Project 09:** News Aggregator + AI (Advanced)
-- [ ] **Project 10:** E-Commerce Full-Scale Store (Advanced)
+## ✨ Features
+- Enter bill amount
+- Select tip percentage
+- Split bill among multiple people
+- Real-time calculation updates
+- Clean and responsive UI using Material 3
 
 ---
 
-### 📝 Reflections
-> "This project taught me that in Compose, you don't 'change' the UI—you change the 'state' and the UI follows. It's a total mindset shift from XML!"
+## 🛠️ Tech Stack
+- **Language:** Kotlin  
+- **UI:** Jetpack Compose  
+- **Architecture:** MVVM (basic)  
+- **State Management:** `remember`, `mutableStateOf`, `derivedStateOf`  
+- **Design:** Material 3  
 
 ---
+
+## 🧠 Concepts Learned
+- Declarative UI with Jetpack Compose  
+- State handling and recomposition  
+- Input validation  
+- Reactive UI updates  
+- Basic MVVM architecture  
+
+---
+
+## 🚀 Android Project Roadmap (1 of 10)
+
+| # | Project Name | Level |
+|---|-------------|-------|
+| ✅ 1 | Tip Split App | Beginner |
+| ⏳ 2 | Expense Tracker App | Beginner |
+| ⏳ 3 | Weather App | Beginner |
+| ⏳ 4 | News App (Pagination) | Intermediate |
+| ⏳ 5 | Authentication App (Firebase) | Intermediate |
+| ⏳ 6 | Contacts App | Intermediate |
+| ⏳ 7 | Real-Time Chat App | Advanced |
+| ⏳ 8 | E-Commerce App | Advanced |
+| ⏳ 9 | Social Media App | Advanced |
+| ⏳ 10 | AI-Powered Android App | Advanced |
+
+---
+
+## 📈 Future Improvements
+- Dark mode support  
+- Currency selection  
+- Custom tip percentage slider  
+- UI animations  
+
+---
+
+## 🙋‍♂️ About Me
+Aspiring **Android Developer** specializing in **Kotlin & Jetpack Compose**, actively building real-world projects to prepare for Android development internships.
+
+---
+
+⭐ If you like this project, consider starring the repository — it motivates me to keep building 🚀
