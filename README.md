@@ -1,5 +1,5 @@
 # 📱 Tip Split App  
-### Project 1 of 10 – Android Internship Portfolio
+### Project 1 of 10 – Advance Android
 
 ## 📌 About the Project
 **Tip Split App** is a beginner-level Android application built using **Kotlin** and **Jetpack Compose**.  
