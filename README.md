@@ -43,7 +43,7 @@ This project is part of my **10-project Android Development roadmap**, designed 
 | ✅ 1 | Tip Split App | Beginner |
 | ⏳ 2 | Expense Tracker App | Beginner |
 | ⏳ 3 | Weather App | Beginner |
-| ⏳ 4 | News App (Pagination) | Intermediate |
+| ⏳ 4 | Gen AI Chat App| Intermediate |
 | ⏳ 5 | Authentication App (Firebase) | Intermediate |
 | ⏳ 6 | Contacts App | Intermediate |
 | ⏳ 7 | Real-Time Chat App | Advanced |
